@@ -16,6 +16,7 @@ public class Product {
 	private String mfgDate;
 	private String name;
 	private int i;
+	private int j;
 
 
 	
